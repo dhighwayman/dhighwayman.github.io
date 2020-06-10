@@ -8,12 +8,7 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hi@davidsantamaria.me",
     "phone": "555-555-5555",
-    "address":{
-      "street":"",
-      "city":"Vitoria",
-      "state":"",
-      "zip": "''"
-    },
+    "based": "Remote",
     "website": "https://davidsantamaria.me",
     "resumedownload":"https://davidsantamaria.me",
     "social":[
