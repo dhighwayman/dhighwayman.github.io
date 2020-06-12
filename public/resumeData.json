@@ -2,9 +2,9 @@
   "main": {
     "name":"David Santamaria",
     "occupation":"Engineering Manager",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Software engineer interested in software analysis, architecture and development. I've been mostly focused on Web. Love to build things with quality, from the conception to the deploy. I take the software that I write very seriously while having an extreme passion for being the best I can be at doing what I love to do. Experience in leading and working with engineering teams in the architecture, specification and implementation of complex, highly scalable and performant systems.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hi@davidsantamaria.me",
     "phone": "555-555-5555",
