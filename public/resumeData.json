@@ -7,7 +7,6 @@
     "bio":"Software engineer interested in software analysis, architecture and development. I've been mostly focused on Web. Love to build things with quality, from the conception to the deploy. I take the software that I write very seriously while having an extreme passion for being the best I can be at doing what I love to do. Experience in leading and working with engineering teams in the architecture, specification and implementation of complex, highly scalable and performant systems.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hi@davidsantamaria.me",
-    "phone": "555-555-5555",
     "based": "Remote",
     "website": "https://davidsantamaria.me",
     "resumedownload":"https://davidsantamaria.me",
@@ -25,33 +24,50 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Some of the skills that I have developed",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Deusto",
+        "degree":"Computer Science engineering",
+        "graduated":"July 2007"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Cabify",
+        "title":"Engineering Manager",
+        "years":"May 2019 - Present",
+        "description":"Tech Stack: Golang, Redis, MySQL, NSQ, gRPC,... Role: Engineering manager at Cabify. Working on the Match team and Maps & Routes team. Leading a team of 7 software engineers collaborating with product and data science to improve our marketplace. Responsibilities for this role include technical product definition and vision, technical leadership and team management. Shipped: We were in charge of the matcher, matching thousands of riders and drivers per matching round. Shipped a tool to replace Google maps on calculations of ETAs based on a machine learning model that predicts ETAs. Shipped a tool that replaces Google Maps on routes calculation."
       },
       {
-        "company":"Super Cool Studio",
+        "company":"eBay",
         "title":"Junior bug fixer",
         "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Tech Lead at Stubhub driving a team of 7 software engineers on several products across company collaborating with product, design and biz dev to deliver delightful user experiences. Responsibilities for this role include product definition and vision, technical leadership and team management. Other achievements: * Member of the Software Development Life Cycle Committee of the company. * Creator and driver of the Engineering culture team inside Stubhub. * Split the monolithic app into microservices."
+      },
+      {
+        "company":"Ticketbis",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Project leader at Ticketbis. Work tasks included coordinating the multiple teams, designed and coded new features, and build a scalable product. Leading a team of 20+ software engineers collaborating with product, design and biz dev to deliver delightful user experiences. Also part of the team responsible of fulfillment and partnerships building tools for integrate large amounts of listings into our platform. Our main challenges involve scalability, reliability and real time processing. Responsibilities for this role include product definition and vision, technical leadership and team management."
+      },
+      {
+        "company":"AOL",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Designed and implemented new web applications for aol.com's local team. Worked with Java, and web services. Designed and implemented web service to provide rich search results to search.aol.com team. Developed a tool to retrieve data from the backend and help in the implementation of that tool in several projects as yellowpages.aol.com and when.com. Implemented numerous improvements to citypages.aol.com and citysbest.aol.com. Performed troubleshooting of mission-critical backend and website software."
+      },
+      {
+        "company":"In1Solutions",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Developed backoffice applications and web development. Refactored parts of the site, and backoffice applications that already existed. Developed the hotel booking engine used by international customers."
+      },
+      {
+        "company":"Irontec",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Working in a telecom company. My technical work was focused on VoIP application development and systems monitoring. Directly handled customer requirements for developing call-center systems. Technical support on Voice over IP and Asterisk."
       }
     ],
     "skills":[
