@@ -7,7 +7,7 @@ class About extends Component {
       var profilepic = "images/" + this.props.data.image;
       var bio = this.props.data.bio;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      var resumeDownload = "files/" + this.props.data.resumedownload;
     }
     return (
       <section id="about">
