@@ -35,48 +35,56 @@
     "work":[
       {
         "company":"Cloudbeds",
+        "companypic":"images/cloudbeds.png",
         "title":"Senior Engineering Manager",
         "years":"Oct 2020 - Present",
-        "description":"<strong>Tech Stack:</strong> Java, VueJS, Amazon AWS.<br/><strong>Role:</strong> Senior Engineering Manager at Cloudbeds. Working on the distribution vertical, leading the Distributed Systems team and the Channel manager team.<ul><li>- Lead two teams of 9 software engineers, the distribution systems team in charge of making systems scalable, driving the engineering team into the microservices architecture; and the channel manager team distributing our inventory along +300 online booking channels.</li><li>- Responsibilities include technical product definition and mid-term/long-term vision, technological leadership, delivery and team growth, team health, and individuals progression.</li><li>- Partner with the leadership to create the engineering department’s career path and drive the engineering team’s calibration.</li></ul><strong>Shipped:</strong><ul><li>- Drive the technology transformation into microservices.</li><li>- Along that time, the channel manager team was able to attain a premier partnership with Booking.com.</li><li>- Partner with Google to be part of the Google Hotel Search pilot.</li></ul>"
+        "description":"<strong>Tech Stack:</strong> Java, VueJS, Amazon AWS.<br/><strong>Role:</strong> Senior Engineering Manager at Cloudbeds. Working on the distribution vertical, leading the Distributed Systems team and the Channel manager team.<ul  class='circle'><li>Lead two teams of 9 software engineers, the distribution systems team in charge of making systems scalable, driving the engineering team into the microservices architecture; and the channel manager team distributing our inventory along +300 online booking channels.</li><li>Responsibilities include technical product definition and mid-term/long-term vision, technological leadership, delivery and team growth, team health, and individuals progression.</li><li>Partner with the leadership to create the engineering department’s career path and drive the engineering team’s calibration.</li></ul><strong>Shipped:</strong><ul  class='circle'><li>Drive the technology transformation into microservices.</li><li>Along that time, the channel manager team was able to attain a premier partnership with Booking.com.</li><li>Partner with Google to be part of the Google Hotel Search pilot.</li></ul>"
       },
       {
         "company":"Cabify",
+        "companypic":"images/cabify.jpg",
         "title":"Senior Engineering Manager",
         "years":"April 2019 - Oct 2020",
-        "description":"<strong>Tech Stack:</strong> Golang, Redis, MySQL, NSQ, gRPC, Google Cloud Platform.<strong><br/>Role:</strong>Senior Engineering manager at Cabify. Working on the Match team.<ul><li>Lead the creation of the Maps & Routes team.</li><li>Lead a group of 7 software engineers collaborating with product and data science to improve our marketplace.</li><li>Responsibilities include technical product definition and long-term/mid-term vision, technological leadership, team growth, team health, and individuals progression.</li></ul><strong>Shipped:</strong>We were in charge of the matcher, matching thousands of riders and drivers per matching round. <ul><li>Lead the creation of the Maps & Routes squad responsible for delivering the tools for providing routes and ETAs solutions for Cabify.</li><li>That team reduced the operational cost of Cabify on other map services by more than a half in less than one year. By that time, the operating cost of mapping services was one of the company’s highest expenses.</li><li>Ship a tool to replace Google maps on calculations of ETAs based on a machine learning model that predicts ETAs. Later we extend that tool to replace Google Maps on routes calculation.</li></ul>"
+        "description":"<strong>Tech Stack:</strong> Golang, Redis, MySQL, NSQ, gRPC, Google Cloud Platform.<strong><br/>Role:</strong>Senior Engineering manager at Cabify. Working on the Match team.<ul class='circle'><li>Lead the creation of the Maps & Routes team.</li><li>Lead a group of 7 software engineers collaborating with product and data science to improve our marketplace.</li><li>Responsibilities include technical product definition and long-term/mid-term vision, technological leadership, team growth, team health, and individuals progression.</li></ul><strong>Shipped:</strong>We were in charge of the matcher, matching thousands of riders and drivers per matching round. <ul  class='circle'><li>Lead the creation of the Maps & Routes squad responsible for delivering the tools for providing routes and ETAs solutions for Cabify.</li><li>That team reduced the operational cost of Cabify on other map services by more than a half in less than one year. By that time, the operating cost of mapping services was one of the company’s highest expenses.</li><li>Ship a tool to replace Google maps on calculations of ETAs based on a machine learning model that predicts ETAs. Later we extend that tool to replace Google Maps on routes calculation.</li></ul>"
       },
       {
         "company":"eBay",
+        "companypic":"images/ebay.jpg",
         "title":"Senior Engineering Manager",
         "years":"April 2016 - April 2019",
-        "description":"<strong>Tech Stack:</strong> Java, Spring Boot, Kotlin, Oracle, Kafka, Google Cloud Platform.<br/><strong>Role:</strong> Tech Lead at Stubhub(an eBay company) worked on several teams across the company, like Delivery & Fulfillment, international, Buyer Experience, and Financial Services. <ul><li>Leading multiple teams of 10+ software engineers collaborating with product, design, and business to deliver delightful user experiences.</li><li>Responsibilities for this role include product definition and vision, technical leadership, and team management.</li></ul><strong>Shipped:</strong><ul><li>Lead the transformation of multiple services into Cloud Native Services.</li><li>Drive the monolith extraction into microservices and bringing them into the cloud.</li></ul> Other achievements:<ul><li>Member of the SDLC Committee of the company.</li><li>Organizer of the Engineering culture team inside Stubhub.</li></ul>"
+        "description":"<strong>Tech Stack:</strong> Java, Spring Boot, Kotlin, Oracle, Kafka, Google Cloud Platform.<br/><strong>Role:</strong> Tech Lead at Stubhub(an eBay company) worked on several teams across the company, like Delivery & Fulfillment, international, Buyer Experience, and Financial Services. <ul  class='circle'><li>Leading multiple teams of 10+ software engineers collaborating with product, design, and business to deliver delightful user experiences.</li><li>Responsibilities for this role include product definition and vision, technical leadership, and team management.</li></ul><strong>Shipped:</strong><ul  class='circle'><li>Lead the transformation of multiple services into Cloud Native Services.</li><li>Drive the monolith extraction into microservices and bringing them into the cloud.</li></ul> Other achievements:<ul  class='circle'><li>Member of the SDLC Committee of the company.</li><li>Organizer of the Engineering culture team inside Stubhub.</li></ul>"
       },
       {
         "company":"Ticketbis",
         "title":"VP Engineering",
+        "companypic":"images/ticketbis.png",
         "years":"Nov 2009 - April 2016",
-        "description":"<strong>Tech Stack:</strong> Java, Groovy, Grails, Spring Boot MySQL, Redis, RabbitMQ.<br/><strong>Role:</strong>Worked as a VP of Engineering at Ticketbis. I join to the company in their early days (employee #2). <ul><li>Lead the engineering group from its creation until we got acquired by eBay. By that time, the engineering group was more than 40 individuals in a technology group of over 80.</li><li>Build the hiring process from the beginning acting as Hiring manager for most of our incorporations.</li><li>Drive the growth of the engineering department and its structure.</li><li>Our main challenges involve scalability, reliability, and real-time processing.</li></ul><strong>Shipped:</strong><ul><li>Build the platform of Ticketbis at the beginning.</li><li>Lead the growth of the department.</li><li>Provide the long-term roadmap for the department.</li></ul>"
+        "description":"<strong>Tech Stack:</strong> Java, Groovy, Grails, Spring Boot MySQL, Redis, RabbitMQ.<br/><strong>Role:</strong>Worked as a VP of Engineering at Ticketbis. I join to the company in their early days (employee #2). <ul  class='circle'><li>Lead the engineering group from its creation until we got acquired by eBay. By that time, the engineering group was more than 40 individuals in a technology group of over 80.</li><li>Build the hiring process from the beginning acting as Hiring manager for most of our incorporations.</li><li>Drive the growth of the engineering department and its structure.</li><li>Our main challenges involve scalability, reliability, and real-time processing.</li></ul><strong>Shipped:</strong><ul  class='circle'><li>Build the platform of Ticketbis at the beginning.</li><li>Lead the growth of the department.</li><li>Provide the long-term roadmap for the department.</li></ul>"
       },
       {
         "company":"Universidad de Deusto",
+        "companypic":"images/deusto.jpg",
         "title":"Associate Professor",
         "years":"Dec 2012 - Jan 2013",
         "description":""
       },
       {
         "company":"AOL",
+        "companypic":"images/aol.png",
         "title":"Senior Software Engineer",
         "years":"Mar 2008 - Nov 2009",
         "description":""
       },
       {
         "company":"In1Solutions",
+        "companypic":"images/in1solutions.jpg",
         "title":"Software Engineer",
         "years":"Nov 2007 - Mar 2008",
         "description":""
       },
       {
         "company":"Irontec",
+        "companypic":"images/irontec.jpg",
         "title":"Software Engineer",
         "years":"March 2007 - Nov 2007",
         "description":""
