@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"David Santamaria",
-    "occupation":"Engineering Manager",
+    "occupation":"Engineering Leader / Tech Lead",
     "description":"",
     "image":"profilepic.jpg",
     "bio":"Software engineer interested in software analysis, architecture and development. I've been mostly focused on Web. Love to build things with quality, from the conception to the deploy. I take the software that I write very seriously while having an extreme passion for being the best I can be at doing what I love to do. Experience in leading and working with engineering teams in the architecture, specification and implementation of complex, highly scalable and performant systems.",
@@ -34,10 +34,17 @@
     ],
     "work":[
       {
+        "company":"Toptal",
+        "companypic":"images/toptal.png",
+        "title":"Senior Engineering Manager",
+        "years":"Jun 2021 - Present",
+        "description":"<strong>Tech Stack:</strong> React, Next, Ruby, RoR, Google Cloud Platform, K8s.<br/><strong>Role:</strong> Senior Engineering Manager at Toptal. Working on TopAcademy vertical. TopAcademy aims to be the most innovative and successful initiative in Toptal to solve the candidate sourcing.<ul  class='circle'><li>Lead a team of 10 software engineers, the first team in TopAcademy.</li><li>Partner with the leadership to create the TopAcademy initiative.</li></ul><strong>Shipped:</strong><ul  class='circle'><li>Definition of the initiative and lead the creation of the first team.</li><li>Creation of the Frontend Path and collaboration for the Backend path. </li></ul>"
+      },
+      {
         "company":"Cloudbeds",
         "companypic":"images/cloudbeds.png",
         "title":"Senior Engineering Manager",
-        "years":"Oct 2020 - Present",
+        "years":"Oct 2020 - May 2021",
         "description":"<strong>Tech Stack:</strong> Java, VueJS, Amazon AWS.<br/><strong>Role:</strong> Senior Engineering Manager at Cloudbeds. Working on the distribution vertical, leading the Distributed Systems team and the Channel manager team.<ul  class='circle'><li>Lead two teams of 9 software engineers, the distribution systems team in charge of making systems scalable, driving the engineering team into the microservices architecture; and the channel manager team distributing our inventory along +300 online booking channels.</li><li>Responsibilities include technical product definition and mid-term/long-term vision, technological leadership, delivery and team growth, team health, and individuals progression.</li><li>Partner with the leadership to create the engineering department’s career path and drive the engineering team’s calibration.</li></ul><strong>Shipped:</strong><ul  class='circle'><li>Drive the technology transformation into microservices.</li><li>Along that time, the channel manager team was able to attain a premier partnership with Booking.com.</li><li>Partner with Google to be part of the Google Hotel Search pilot.</li></ul>"
       },
       {
