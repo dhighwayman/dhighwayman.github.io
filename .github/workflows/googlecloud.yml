@@ -23,6 +23,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
+    - id: 'auth'
+      uses: 'google-github-actions/auth@v2'
+      with:
+        service_account: ${{ secrets.RUN_SA_KEY }}
+        project_id: ${{ secrets.GOOGLE_CLOUD_RUN_PROJECT }}
+
     # Setup gcloud CLI
     - uses: google-github-actions/setup-gcloud@v2
       with:
